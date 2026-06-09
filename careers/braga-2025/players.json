@@ -20,20 +20,26 @@
             "appearances": 100,
             "goals": 103,
             "assists": 12
+          },
+          {
+            "season": "2025/26",
+            "appearances": 43,
+            "goals": 47,
+            "assists": 5
           }
         ],
         "totals": {
-          "appearances": 100,
-          "goals": 103,
-          "assists": 12,
-          "seasons_count": 2
+          "appearances": 143,
+          "goals": 150,
+          "assists": 17,
+          "seasons_count": 3
         }
       }
     ],
     "career_totals": {
-      "appearances": 100,
-      "goals": 103,
-      "assists": 12
+      "appearances": 143,
+      "goals": 150,
+      "assists": 17
     }
   },
   {
@@ -57,21 +63,28 @@
             "appearances": 100,
             "goals": 41,
             "assists": 24
+          },
+          {
+            "season": "2025/26",
+            "appearances": 17,
+            "goals": 2,
+            "assists": 3
           }
         ],
         "totals": {
-          "appearances": 100,
-          "goals": 41,
-          "assists": 24,
-          "seasons_count": 2
+          "appearances": 117,
+          "goals": 43,
+          "assists": 27,
+          "seasons_count": 3
         }
       }
     ],
     "career_totals": {
-      "appearances": 100,
-      "goals": 41,
-      "assists": 24
-    }
+      "appearances": 117,
+      "goals": 43,
+      "assists": 27
+    },
+    "left_club": true
   },
   {
     "id": 3,
@@ -94,20 +107,26 @@
             "appearances": 104,
             "goals": 30,
             "assists": 31
+          },
+          {
+            "season": "2025/26",
+            "appearances": 19,
+            "goals": 2,
+            "assists": 5
           }
         ],
         "totals": {
-          "appearances": 104,
-          "goals": 30,
-          "assists": 31,
-          "seasons_count": 2
+          "appearances": 123,
+          "goals": 32,
+          "assists": 36,
+          "seasons_count": 3
         }
       }
     ],
     "career_totals": {
-      "appearances": 104,
-      "goals": 30,
-      "assists": 31
+      "appearances": 123,
+      "goals": 32,
+      "assists": 36
     }
   },
   {
@@ -145,7 +164,8 @@
       "appearances": 63,
       "goals": 25,
       "assists": 8
-    }
+    },
+    "left_club": true
   },
   {
     "id": 5,
@@ -168,20 +188,26 @@
             "appearances": 68,
             "goals": 21,
             "assists": 5
+          },
+          {
+            "season": "2025/26",
+            "appearances": 27,
+            "goals": 20,
+            "assists": 4
           }
         ],
         "totals": {
-          "appearances": 68,
-          "goals": 21,
-          "assists": 5,
-          "seasons_count": 2
+          "appearances": 95,
+          "goals": 41,
+          "assists": 9,
+          "seasons_count": 3
         }
       }
     ],
     "career_totals": {
-      "appearances": 68,
-      "goals": 21,
-      "assists": 5
+      "appearances": 95,
+      "goals": 41,
+      "assists": 9
     }
   },
   {
@@ -205,20 +231,26 @@
             "appearances": 89,
             "goals": 16,
             "assists": 22
+          },
+          {
+            "season": "2025/26",
+            "appearances": 34,
+            "goals": 2,
+            "assists": 1
           }
         ],
         "totals": {
-          "appearances": 89,
-          "goals": 16,
-          "assists": 22,
-          "seasons_count": 2
+          "appearances": 123,
+          "goals": 18,
+          "assists": 23,
+          "seasons_count": 3
         }
       }
     ],
     "career_totals": {
-      "appearances": 89,
-      "goals": 16,
-      "assists": 22
+      "appearances": 123,
+      "goals": 18,
+      "assists": 23
     }
   },
   {
@@ -242,20 +274,26 @@
             "appearances": 27,
             "goals": 11,
             "assists": 6
+          },
+          {
+            "season": "2025/26",
+            "appearances": 46,
+            "goals": 14,
+            "assists": 12
           }
         ],
         "totals": {
-          "appearances": 27,
-          "goals": 11,
-          "assists": 6,
-          "seasons_count": 1
+          "appearances": 73,
+          "goals": 25,
+          "assists": 18,
+          "seasons_count": 2
         }
       }
     ],
     "career_totals": {
-      "appearances": 27,
-      "goals": 11,
-      "assists": 6
+      "appearances": 73,
+      "goals": 25,
+      "assists": 18
     }
   },
   {
@@ -293,7 +331,8 @@
       "appearances": 90,
       "goals": 8,
       "assists": 2
-    }
+    },
+    "left_club": true
   },
   {
     "id": 9,
@@ -316,20 +355,26 @@
             "appearances": 92,
             "goals": 5,
             "assists": 49
+          },
+          {
+            "season": "2025/26",
+            "appearances": 46,
+            "goals": 2,
+            "assists": 16
           }
         ],
         "totals": {
-          "appearances": 92,
-          "goals": 5,
-          "assists": 49,
-          "seasons_count": 2
+          "appearances": 138,
+          "goals": 7,
+          "assists": 65,
+          "seasons_count": 3
         }
       }
     ],
     "career_totals": {
-      "appearances": 92,
-      "goals": 5,
-      "assists": 49
+      "appearances": 138,
+      "goals": 7,
+      "assists": 65
     }
   },
   {
@@ -353,20 +398,26 @@
             "appearances": 49,
             "goals": 5,
             "assists": 15
+          },
+          {
+            "season": "2025/26",
+            "appearances": 51,
+            "goals": 6,
+            "assists": 11
           }
         ],
         "totals": {
-          "appearances": 49,
-          "goals": 5,
-          "assists": 15,
-          "seasons_count": 1
+          "appearances": 100,
+          "goals": 11,
+          "assists": 26,
+          "seasons_count": 2
         }
       }
     ],
     "career_totals": {
-      "appearances": 49,
-      "goals": 5,
-      "assists": 15
+      "appearances": 100,
+      "goals": 11,
+      "assists": 26
     }
   },
   {
@@ -404,7 +455,8 @@
       "appearances": 47,
       "goals": 4,
       "assists": 4
-    }
+    },
+    "left_club": true
   },
   {
     "id": 12,
@@ -441,7 +493,8 @@
       "appearances": 48,
       "goals": 3,
       "assists": 7
-    }
+    },
+    "left_club": true
   },
   {
     "id": 13,
@@ -478,7 +531,8 @@
       "appearances": 83,
       "goals": 3,
       "assists": 10
-    }
+    },
+    "left_club": true
   },
   {
     "id": 14,
@@ -501,20 +555,26 @@
             "appearances": 101,
             "goals": 3,
             "assists": 3
+          },
+          {
+            "season": "2025/26",
+            "appearances": 44,
+            "goals": 0,
+            "assists": 4
           }
         ],
         "totals": {
-          "appearances": 101,
+          "appearances": 145,
           "goals": 3,
-          "assists": 3,
-          "seasons_count": 2
+          "assists": 7,
+          "seasons_count": 3
         }
       }
     ],
     "career_totals": {
-      "appearances": 101,
+      "appearances": 145,
       "goals": 3,
-      "assists": 3
+      "assists": 7
     }
   },
   {
@@ -538,20 +598,26 @@
             "appearances": 42,
             "goals": 2,
             "assists": 8
+          },
+          {
+            "season": "2025/26",
+            "appearances": 32,
+            "goals": 2,
+            "assists": 3
           }
         ],
         "totals": {
-          "appearances": 42,
-          "goals": 2,
-          "assists": 8,
-          "seasons_count": 1
+          "appearances": 74,
+          "goals": 4,
+          "assists": 11,
+          "seasons_count": 2
         }
       }
     ],
     "career_totals": {
-      "appearances": 42,
-      "goals": 2,
-      "assists": 8
+      "appearances": 74,
+      "goals": 4,
+      "assists": 11
     }
   },
   {
@@ -575,20 +641,26 @@
             "appearances": 25,
             "goals": 2,
             "assists": 16
+          },
+          {
+            "season": "2025/26",
+            "appearances": 53,
+            "goals": 4,
+            "assists": 14
           }
         ],
         "totals": {
-          "appearances": 25,
-          "goals": 2,
-          "assists": 16,
-          "seasons_count": 1
+          "appearances": 78,
+          "goals": 6,
+          "assists": 30,
+          "seasons_count": 2
         }
       }
     ],
     "career_totals": {
-      "appearances": 25,
-      "goals": 2,
-      "assists": 16
+      "appearances": 78,
+      "goals": 6,
+      "assists": 30
     }
   },
   {
@@ -626,7 +698,8 @@
       "appearances": 27,
       "goals": 1,
       "assists": 5
-    }
+    },
+    "left_club": true
   },
   {
     "id": 18,
@@ -649,18 +722,24 @@
             "appearances": 59,
             "goals": 1,
             "assists": 3
+          },
+          {
+            "season": "2025/26",
+            "appearances": 16,
+            "goals": 0,
+            "assists": 0
           }
         ],
         "totals": {
-          "appearances": 59,
+          "appearances": 75,
           "goals": 1,
           "assists": 3,
-          "seasons_count": 2
+          "seasons_count": 3
         }
       }
     ],
     "career_totals": {
-      "appearances": 59,
+      "appearances": 75,
       "goals": 1,
       "assists": 3
     }
@@ -700,7 +779,8 @@
       "appearances": 55,
       "goals": 0,
       "assists": 0
-    }
+    },
+    "left_club": true
   },
   {
     "id": 20,
@@ -723,20 +803,26 @@
             "appearances": 44,
             "goals": 0,
             "assists": 10
+          },
+          {
+            "season": "2025/26",
+            "appearances": 40,
+            "goals": 0,
+            "assists": 3
           }
         ],
         "totals": {
-          "appearances": 44,
+          "appearances": 84,
           "goals": 0,
-          "assists": 10,
-          "seasons_count": 1
+          "assists": 13,
+          "seasons_count": 2
         }
       }
     ],
     "career_totals": {
-      "appearances": 44,
+      "appearances": 84,
       "goals": 0,
-      "assists": 10
+      "assists": 13
     }
   },
   {
@@ -760,10 +846,88 @@
             "appearances": 35,
             "goals": 0,
             "assists": 0
+          },
+          {
+            "season": "2025/26",
+            "appearances": 47,
+            "goals": 0,
+            "assists": 0
           }
         ],
         "totals": {
-          "appearances": 35,
+          "appearances": 82,
+          "goals": 0,
+          "assists": 0,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 82,
+      "goals": 0,
+      "assists": 0
+    }
+  },
+  {
+    "id": 22,
+    "name": "GABRIEL MAGALHÃES",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "ZG",
+    "position2": null,
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2025/26",
+            "appearances": 42,
+            "goals": 4,
+            "assists": 2
+          }
+        ],
+        "totals": {
+          "appearances": 42,
+          "goals": 4,
+          "assists": 2,
+          "seasons_count": 1
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 42,
+      "goals": 4,
+      "assists": 2
+    }
+  },
+  {
+    "id": 23,
+    "name": "SABA KHAREBASHVILI",
+    "nationality": "GEÓRGIA",
+    "nationality_code": "ge",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "LD",
+    "position2": "LE",
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2025/26",
+            "appearances": 15,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "totals": {
+          "appearances": 15,
           "goals": 0,
           "assists": 0,
           "seasons_count": 1
@@ -771,7 +935,583 @@
       }
     ],
     "career_totals": {
-      "appearances": 35,
+      "appearances": 15,
+      "goals": 0,
+      "assists": 0
+    }
+  },
+  {
+    "id": 24,
+    "name": "RUAN PABLO",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "AE",
+    "position2": "AC",
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2025/26",
+            "appearances": 27,
+            "goals": 8,
+            "assists": 4
+          }
+        ],
+        "totals": {
+          "appearances": 27,
+          "goals": 8,
+          "assists": 4,
+          "seasons_count": 1
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 27,
+      "goals": 8,
+      "assists": 4
+    }
+  },
+  {
+    "id": 25,
+    "name": "DELL",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2025/26",
+            "appearances": 24,
+            "goals": 2,
+            "assists": 3
+          }
+        ],
+        "totals": {
+          "appearances": 24,
+          "goals": 2,
+          "assists": 3,
+          "seasons_count": 1
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 24,
+      "goals": 2,
+      "assists": 3
+    }
+  },
+  {
+    "id": 26,
+    "name": "FÁBIO VIEIRA",
+    "nationality": "PORTUGAL",
+    "nationality_code": "pt",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "MA",
+    "position2": "MC",
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2025/26",
+            "appearances": 24,
+            "goals": 2,
+            "assists": 2
+          }
+        ],
+        "totals": {
+          "appearances": 24,
+          "goals": 2,
+          "assists": 2,
+          "seasons_count": 1
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 24,
+      "goals": 2,
+      "assists": 2
+    }
+  },
+  {
+    "id": 27,
+    "name": "FIGUEIREDO",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "MC",
+    "position2": "MA",
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2025/26",
+            "appearances": 24,
+            "goals": 7,
+            "assists": 3
+          }
+        ],
+        "totals": {
+          "appearances": 24,
+          "goals": 7,
+          "assists": 3,
+          "seasons_count": 1
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 24,
+      "goals": 7,
+      "assists": 3
+    }
+  },
+  {
+    "id": 28,
+    "name": "WILLAM FERNANDO",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "LE",
+    "position2": null,
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2025/26",
+            "appearances": 24,
+            "goals": 2,
+            "assists": 5
+          }
+        ],
+        "totals": {
+          "appearances": 24,
+          "goals": 2,
+          "assists": 5,
+          "seasons_count": 1
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 24,
+      "goals": 2,
+      "assists": 5
+    }
+  },
+  {
+    "id": 29,
+    "name": "THIERRY HENRY",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": "PORTUGAL",
+    "nationality2_code": "pt",
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2023/24",
+            "appearances": 20,
+            "goals": 3,
+            "assists": 1
+          },
+          {
+            "season": "2024/25",
+            "appearances": 21,
+            "goals": 4,
+            "assists": 1
+          },
+          {
+            "season": "2025/26",
+            "appearances": 16,
+            "goals": 4,
+            "assists": 4
+          }
+        ],
+        "totals": {
+          "appearances": 57,
+          "goals": 11,
+          "assists": 6,
+          "seasons_count": 3
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 57,
+      "goals": 11,
+      "assists": 6
+    }
+  },
+  {
+    "id": 30,
+    "name": "ARTHUR WENDERROSCKY",
+    "nationality": "POLÔNIA",
+    "nationality_code": "pl",
+    "nationality2": "BRASIL",
+    "nationality2_code": "br",
+    "position": "MA",
+    "position2": "MC",
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2025/26",
+            "appearances": 12,
+            "goals": 0,
+            "assists": 1
+          }
+        ],
+        "totals": {
+          "appearances": 12,
+          "goals": 0,
+          "assists": 1,
+          "seasons_count": 1
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 12,
+      "goals": 0,
+      "assists": 1
+    }
+  },
+  {
+    "id": 31,
+    "name": "ROBSON",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "VL",
+    "position2": "ZG",
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2024/25",
+            "appearances": 7,
+            "goals": 0,
+            "assists": 1
+          },
+          {
+            "season": "2025/26",
+            "appearances": 10,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "totals": {
+          "appearances": 17,
+          "goals": 0,
+          "assists": 1,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 17,
+      "goals": 0,
+      "assists": 1
+    }
+  },
+  {
+    "id": 32,
+    "name": "CHISSUMBA",
+    "nationality": "PORTUGAL",
+    "nationality_code": "pt",
+    "nationality2": "MOÇAMBIQUE",
+    "nationality2_code": "mz",
+    "position": "LE",
+    "position2": "ZG",
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2025/26",
+            "appearances": 9,
+            "goals": 0,
+            "assists": 4
+          }
+        ],
+        "totals": {
+          "appearances": 9,
+          "goals": 0,
+          "assists": 4,
+          "seasons_count": 1
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 9,
+      "goals": 0,
+      "assists": 4
+    }
+  },
+  {
+    "id": 33,
+    "name": "GUSTAF LAGERBIELKE",
+    "nationality": "SUÉCIA",
+    "nationality_code": "se",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "ZG",
+    "position2": null,
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2023/24-2024/25 (acumulado)",
+            "appearances": 13,
+            "goals": 0,
+            "assists": 0
+          },
+          {
+            "season": "2025/26",
+            "appearances": 8,
+            "goals": 0,
+            "assists": 1
+          }
+        ],
+        "totals": {
+          "appearances": 21,
+          "goals": 0,
+          "assists": 1,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 21,
+      "goals": 0,
+      "assists": 1
+    }
+  },
+  {
+    "id": 34,
+    "name": "MARCOS CABROBÓ",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": "PORTUGAL",
+    "nationality2_code": "pt",
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2023/24-2024/25 (acumulado)",
+            "appearances": 20,
+            "goals": 3,
+            "assists": 1
+          },
+          {
+            "season": "2025/26",
+            "appearances": 6,
+            "goals": 1,
+            "assists": 0
+          }
+        ],
+        "totals": {
+          "appearances": 26,
+          "goals": 4,
+          "assists": 1,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 26,
+      "goals": 4,
+      "assists": 1
+    }
+  },
+  {
+    "id": 35,
+    "name": "MYCAEL",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "GO",
+    "position2": null,
+    "position_group": "GOL",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2025/26",
+            "appearances": 5,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "totals": {
+          "appearances": 5,
+          "goals": 0,
+          "assists": 0,
+          "seasons_count": 1
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 5,
+      "goals": 0,
+      "assists": 0
+    }
+  },
+  {
+    "id": 36,
+    "name": "TIAGO FERREIRA",
+    "nationality": "PORTUGAL",
+    "nationality_code": "pt",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "MA",
+    "position2": "MC",
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2024/25",
+            "appearances": 8,
+            "goals": 1,
+            "assists": 3
+          },
+          {
+            "season": "2025/26",
+            "appearances": 3,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "totals": {
+          "appearances": 11,
+          "goals": 1,
+          "assists": 3,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 11,
+      "goals": 1,
+      "assists": 3
+    }
+  },
+  {
+    "id": 37,
+    "name": "JULIO FIDELIS",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "LD",
+    "position2": null,
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2025/26",
+            "appearances": 3,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "totals": {
+          "appearances": 3,
+          "goals": 0,
+          "assists": 0,
+          "seasons_count": 1
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 3,
+      "goals": 0,
+      "assists": 0
+    }
+  },
+  {
+    "id": 38,
+    "name": "ROMÁRIO CUNHA",
+    "nationality": "PORTUGAL",
+    "nationality_code": "pt",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "GO",
+    "position2": null,
+    "position_group": "GOL",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2025/26",
+            "appearances": 2,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "totals": {
+          "appearances": 2,
+          "goals": 0,
+          "assists": 0,
+          "seasons_count": 1
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 2,
       "goals": 0,
       "assists": 0
     }

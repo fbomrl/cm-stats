@@ -74,5 +74,43 @@
         }
       ]
     }
+  },
+  {
+    "season": "2025/26",
+    "club": "Braga",
+    "competitions": {
+      "portugal": [
+        {
+          "name": "Primeira Liga",
+          "result": "CAMPEÃO"
+        },
+        {
+          "name": "Taça de Portugal",
+          "result": "CAMPEÃO"
+        },
+        {
+          "name": "Supertaça",
+          "result": "VICE-CAMPEÃO"
+        }
+      ],
+      "mundial": [
+        {
+          "name": "Champions League",
+          "result": "PLAYOFF"
+        },
+        {
+          "name": "Europa League",
+          "result": "QUARTAS DE FINAL"
+        },
+        {
+          "name": "Recopa Europeia",
+          "result": "-"
+        },
+        {
+          "name": "Mundial de Clubes",
+          "result": "-"
+        }
+      ]
+    }
   }
 ]

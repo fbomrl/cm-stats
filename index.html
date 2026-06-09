@@ -42,6 +42,10 @@ tr:last-child td{border-bottom:none}
 tr:hover td{background:#1d1d1d;cursor:pointer}
 .r{text-align:right}
 .pname{font-weight:700}
+.left-club{display:inline-flex;align-items:center;gap:4px;position:relative;cursor:default}
+.left-club .lc-icon{font-size:11px;color:#f59e0b;font-weight:900}
+.left-club:hover .lc-tip{opacity:1}
+.lc-tip{position:absolute;bottom:calc(100% + 5px);left:0;background:#1e1e1e;color:#f59e0b;font-size:11px;font-weight:600;white-space:nowrap;padding:3px 8px;border-radius:5px;border:1px solid #f59e0b44;opacity:0;transition:opacity .15s;z-index:999;pointer-events:none}
 .badge{display:inline-block;padding:2px 7px;border-radius:4px;font-size:10px;font-weight:800;cursor:pointer;transition:.15s}
 .badge:hover{opacity:.75}
 .GOL{background:rgba(245,158,11,.15);color:#f59e0b}
@@ -463,7 +467,7 @@ function renderTable() {
     }
     const pn = p.name.replace(/'/g,"\\'");
     return `<tr onclick="openPlayerModal('${pn}')">
-      <td><span class="pname">${p.name}</span></td>
+      <td>${p.left_club ? `<span class="left-club"><span class="pname">${p.name}</span><span class="lc-icon">!</span><span class="lc-tip">Saiu do clube</span></span>` : `<span class="pname">${p.name}</span>`}</td>
       <td><span class="badge ${g1}"${ov} onclick="event.stopPropagation();openPosPopover(event,'${pn}','${ep.pos1}')">${ep.pos1}</span>${p2h}</td>
       <td><div class="flags">${flag(p.nationality_code)}${p.nationality2_code?flag(p.nationality2_code):''}</div></td>
       ${cell(s.j,'j')}${cell(s.g,'g')}${cell(s.a,'a')}${cell(s.g+s.a,'p')}
