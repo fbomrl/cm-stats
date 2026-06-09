@@ -1,0 +1,2666 @@
+[
+  {
+    "id": 1,
+    "name": "MAXIM TSIGALKO",
+    "nationality": "BIELORRÚSIA",
+    "nationality_code": "by",
+    "nationality2": "ESPANHA",
+    "nationality2_code": "es",
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 1158,
+            "goals": 1471,
+            "assists": 221
+          }
+        ],
+        "totals": {
+          "appearances": 1158,
+          "goals": 1471,
+          "assists": 221,
+          "seasons_count": 21
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 1158,
+      "goals": 1471,
+      "assists": 221
+    }
+  },
+  {
+    "id": 2,
+    "name": "ANASTASIOS SKALIDIS",
+    "nationality": "GRÉCIA",
+    "nationality_code": "gr",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 731,
+            "goals": 519,
+            "assists": 162
+          }
+        ],
+        "totals": {
+          "appearances": 731,
+          "goals": 519,
+          "assists": 162,
+          "seasons_count": 17
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 731,
+      "goals": 519,
+      "assists": 162
+    }
+  },
+  {
+    "id": 3,
+    "name": "CRISTIANO RONALDO",
+    "nationality": "PORTUGAL",
+    "nationality_code": "pt",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 781,
+            "goals": 347,
+            "assists": 218
+          }
+        ],
+        "totals": {
+          "appearances": 781,
+          "goals": 347,
+          "assists": 218,
+          "seasons_count": 15
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 781,
+      "goals": 347,
+      "assists": 218
+    }
+  },
+  {
+    "id": 4,
+    "name": "GÍLSON SALLA",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": "ESPANHA",
+    "nationality2_code": "es",
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 300,
+            "goals": 174,
+            "assists": 55
+          }
+        ],
+        "totals": {
+          "appearances": 300,
+          "goals": 174,
+          "assists": 55,
+          "seasons_count": 6
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 300,
+      "goals": 174,
+      "assists": 55
+    }
+  },
+  {
+    "id": 5,
+    "name": "ROBLEDO",
+    "nationality": "ESPANHA",
+    "nationality_code": "es",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 465,
+            "goals": 124,
+            "assists": 64
+          }
+        ],
+        "totals": {
+          "appearances": 465,
+          "goals": 124,
+          "assists": 64,
+          "seasons_count": 13
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 465,
+      "goals": 124,
+      "assists": 64
+    }
+  },
+  {
+    "id": 6,
+    "name": "PAULINHO",
+    "nationality": "INGLATERRA",
+    "nationality_code": "gb-eng",
+    "nationality2": "BRASIL",
+    "nationality2_code": "br",
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 158,
+            "goals": 121,
+            "assists": 42
+          }
+        ],
+        "totals": {
+          "appearances": 158,
+          "goals": 121,
+          "assists": 42,
+          "seasons_count": 4
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 158,
+      "goals": 121,
+      "assists": 42
+    }
+  },
+  {
+    "id": 7,
+    "name": "PIERRE-EMERICK AUBAMEYANG",
+    "nationality": "GABÃO",
+    "nationality_code": "ga",
+    "nationality2": "FRANÇA",
+    "nationality2_code": "fr",
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 260,
+            "goals": 114,
+            "assists": 51
+          }
+        ],
+        "totals": {
+          "appearances": 260,
+          "goals": 114,
+          "assists": 51,
+          "seasons_count": 6
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 260,
+      "goals": 114,
+      "assists": 51
+    }
+  },
+  {
+    "id": 8,
+    "name": "STILIANOS DOUKAS",
+    "nationality": "GRÉCIA",
+    "nationality_code": "gr",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "MC",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 685,
+            "goals": 77,
+            "assists": 265
+          }
+        ],
+        "totals": {
+          "appearances": 685,
+          "goals": 77,
+          "assists": 265,
+          "seasons_count": 14
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 685,
+      "goals": 77,
+      "assists": 265
+    }
+  },
+  {
+    "id": 9,
+    "name": "IISHAT KOMKOV",
+    "nationality": "BIELORRÚSIA",
+    "nationality_code": "by",
+    "nationality2": "ESPANHA",
+    "nationality2_code": "es",
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 138,
+            "goals": 77,
+            "assists": 31
+          }
+        ],
+        "totals": {
+          "appearances": 138,
+          "goals": 77,
+          "assists": 31,
+          "seasons_count": 4
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 138,
+      "goals": 77,
+      "assists": 31
+    }
+  },
+  {
+    "id": 10,
+    "name": "JONAS GUIMARÃES",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": "ESPANHA",
+    "nationality2_code": "es",
+    "position": "MA",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 408,
+            "goals": 73,
+            "assists": 79
+          }
+        ],
+        "totals": {
+          "appearances": 408,
+          "goals": 73,
+          "assists": 79,
+          "seasons_count": 10
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 408,
+      "goals": 73,
+      "assists": 79
+    }
+  },
+  {
+    "id": 11,
+    "name": "ANDRÉS D'ALESSANDRO",
+    "nationality": "ARGENTINA",
+    "nationality_code": "ar",
+    "nationality2": "ITÁLIA",
+    "nationality2_code": "it",
+    "position": "MA",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 430,
+            "goals": 71,
+            "assists": 227
+          }
+        ],
+        "totals": {
+          "appearances": 430,
+          "goals": 71,
+          "assists": 227,
+          "seasons_count": 10
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 430,
+      "goals": 71,
+      "assists": 227
+    }
+  },
+  {
+    "id": 12,
+    "name": "PEDRO VÁZQUEZ",
+    "nationality": "ARGENTINA",
+    "nationality_code": "ar",
+    "nationality2": "ESPANHA",
+    "nationality2_code": "es",
+    "position": "MA",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 414,
+            "goals": 64,
+            "assists": 95
+          }
+        ],
+        "totals": {
+          "appearances": 414,
+          "goals": 64,
+          "assists": 95,
+          "seasons_count": 9
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 414,
+      "goals": 64,
+      "assists": 95
+    }
+  },
+  {
+    "id": 13,
+    "name": "PATRIK GRÖNVALL",
+    "nationality": "SUÉCIA",
+    "nationality_code": "se",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 77,
+            "goals": 43,
+            "assists": 14
+          }
+        ],
+        "totals": {
+          "appearances": 77,
+          "goals": 43,
+          "assists": 14,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 77,
+      "goals": 43,
+      "assists": 14
+    }
+  },
+  {
+    "id": 14,
+    "name": "ANDY WHITE",
+    "nationality": "INGLATERRA",
+    "nationality_code": "gb-eng",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "MA",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 305,
+            "goals": 40,
+            "assists": 70
+          }
+        ],
+        "totals": {
+          "appearances": 305,
+          "goals": 40,
+          "assists": 70,
+          "seasons_count": 8
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 305,
+      "goals": 40,
+      "assists": 70
+    }
+  },
+  {
+    "id": 15,
+    "name": "LIONEL MESSI",
+    "nationality": null,
+    "nationality_code": null,
+    "nationality2": "ESPANHA",
+    "nationality2_code": "es",
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 504,
+            "goals": 38,
+            "assists": 171
+          }
+        ],
+        "totals": {
+          "appearances": 504,
+          "goals": 38,
+          "assists": 171,
+          "seasons_count": 9
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 504,
+      "goals": 38,
+      "assists": 171
+    }
+  },
+  {
+    "id": 16,
+    "name": "FILHO",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": "ESPANHA",
+    "nationality2_code": "es",
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 229,
+            "goals": 36,
+            "assists": 28
+          }
+        ],
+        "totals": {
+          "appearances": 229,
+          "goals": 36,
+          "assists": 28,
+          "seasons_count": 7
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 229,
+      "goals": 36,
+      "assists": 28
+    }
+  },
+  {
+    "id": 17,
+    "name": "CÍCERO",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": "ESPANHA",
+    "nationality2_code": "es",
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 61,
+            "goals": 34,
+            "assists": 6
+          }
+        ],
+        "totals": {
+          "appearances": 61,
+          "goals": 34,
+          "assists": 6,
+          "seasons_count": 4
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 61,
+      "goals": 34,
+      "assists": 6
+    }
+  },
+  {
+    "id": 18,
+    "name": "JUAN ROMÁN RIQUELME",
+    "nationality": "ARGENTINA",
+    "nationality_code": "ar",
+    "nationality2": "ESPANHA",
+    "nationality2_code": "es",
+    "position": "MA",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 299,
+            "goals": 31,
+            "assists": 97
+          }
+        ],
+        "totals": {
+          "appearances": 299,
+          "goals": 31,
+          "assists": 97,
+          "seasons_count": 6
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 299,
+      "goals": 31,
+      "assists": 97
+    }
+  },
+  {
+    "id": 19,
+    "name": "VASILIS VOULGARIS",
+    "nationality": "GRÉCIA",
+    "nationality_code": "gr",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "MC",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 174,
+            "goals": 28,
+            "assists": 47
+          }
+        ],
+        "totals": {
+          "appearances": 174,
+          "goals": 28,
+          "assists": 47,
+          "seasons_count": 5
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 174,
+      "goals": 28,
+      "assists": 47
+    }
+  },
+  {
+    "id": 20,
+    "name": "GIL",
+    "nationality": "ESPANHA",
+    "nationality_code": "es",
+    "nationality2": "BRASIL",
+    "nationality2_code": "br",
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 99,
+            "goals": 24,
+            "assists": 12
+          }
+        ],
+        "totals": {
+          "appearances": 99,
+          "goals": 24,
+          "assists": 12,
+          "seasons_count": 3
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 99,
+      "goals": 24,
+      "assists": 12
+    }
+  },
+  {
+    "id": 21,
+    "name": "SÉRGIO",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": "ESPANHA",
+    "nationality2_code": "es",
+    "position": "LE",
+    "position2": null,
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 359,
+            "goals": 22,
+            "assists": 47
+          }
+        ],
+        "totals": {
+          "appearances": 359,
+          "goals": 22,
+          "assists": 47,
+          "seasons_count": 9
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 359,
+      "goals": 22,
+      "assists": 47
+    }
+  },
+  {
+    "id": 22,
+    "name": "JOSÉ RAMÓN RUIZ",
+    "nationality": "ESPANHA",
+    "nationality_code": "es",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 63,
+            "goals": 22,
+            "assists": 7
+          }
+        ],
+        "totals": {
+          "appearances": 63,
+          "goals": 22,
+          "assists": 7,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 63,
+      "goals": 22,
+      "assists": 7
+    }
+  },
+  {
+    "id": 23,
+    "name": "SÉRGIO RAMOS",
+    "nationality": "ESPANHA",
+    "nationality_code": "es",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "ZG",
+    "position2": null,
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 781,
+            "goals": 21,
+            "assists": 45
+          }
+        ],
+        "totals": {
+          "appearances": 781,
+          "goals": 21,
+          "assists": 45,
+          "seasons_count": 17
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 781,
+      "goals": 21,
+      "assists": 45
+    }
+  },
+  {
+    "id": 24,
+    "name": "LÚCIO",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": "ESPANHA",
+    "nationality2_code": "es",
+    "position": "ZG",
+    "position2": null,
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 405,
+            "goals": 20,
+            "assists": 35
+          }
+        ],
+        "totals": {
+          "appearances": 405,
+          "goals": 20,
+          "assists": 35,
+          "seasons_count": 8
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 405,
+      "goals": 20,
+      "assists": 35
+    }
+  },
+  {
+    "id": 25,
+    "name": "MARAJÓ",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": "ESPANHA",
+    "nationality2_code": "es",
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 180,
+            "goals": 20,
+            "assists": 25
+          }
+        ],
+        "totals": {
+          "appearances": 180,
+          "goals": 20,
+          "assists": 25,
+          "seasons_count": 7
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 180,
+      "goals": 20,
+      "assists": 25
+    }
+  },
+  {
+    "id": 26,
+    "name": "JOSÉ ANTONIO REYES",
+    "nationality": "ESPANHA",
+    "nationality_code": "es",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 158,
+            "goals": 20,
+            "assists": 29
+          }
+        ],
+        "totals": {
+          "appearances": 158,
+          "goals": 20,
+          "assists": 29,
+          "seasons_count": 7
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 158,
+      "goals": 20,
+      "assists": 29
+    }
+  },
+  {
+    "id": 27,
+    "name": "ERIC LINARÈS",
+    "nationality": "FRANÇA",
+    "nationality_code": "fr",
+    "nationality2": "ARGENTINA",
+    "nationality2_code": "ar",
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 37,
+            "goals": 18,
+            "assists": 2
+          }
+        ],
+        "totals": {
+          "appearances": 37,
+          "goals": 18,
+          "assists": 2,
+          "seasons_count": 4
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 37,
+      "goals": 18,
+      "assists": 2
+    }
+  },
+  {
+    "id": 28,
+    "name": "MARC FERNÁNDEZ GARCÍA",
+    "nationality": "ESPANHA",
+    "nationality_code": "es",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "VL",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 142,
+            "goals": 17,
+            "assists": 25
+          }
+        ],
+        "totals": {
+          "appearances": 142,
+          "goals": 17,
+          "assists": 25,
+          "seasons_count": 4
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 142,
+      "goals": 17,
+      "assists": 25
+    }
+  },
+  {
+    "id": 29,
+    "name": "CLARENCE SEEDORF",
+    "nationality": "HOLANDA",
+    "nationality_code": "nl",
+    "nationality2": "SURINAME",
+    "nationality2_code": "sr",
+    "position": "MC",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 151,
+            "goals": 15,
+            "assists": 49
+          }
+        ],
+        "totals": {
+          "appearances": 151,
+          "goals": 15,
+          "assists": 49,
+          "seasons_count": 3
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 151,
+      "goals": 15,
+      "assists": 49
+    }
+  },
+  {
+    "id": 30,
+    "name": "LUCIANO SANSONETTI",
+    "nationality": "ITÁLIA",
+    "nationality_code": "it",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 66,
+            "goals": 14,
+            "assists": 12
+          }
+        ],
+        "totals": {
+          "appearances": 66,
+          "goals": 14,
+          "assists": 12,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 66,
+      "goals": 14,
+      "assists": 12
+    }
+  },
+  {
+    "id": 31,
+    "name": "ROBBIE KEANE",
+    "nationality": "IRLANDA",
+    "nationality_code": "ie",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 64,
+            "goals": 14,
+            "assists": 7
+          }
+        ],
+        "totals": {
+          "appearances": 64,
+          "goals": 14,
+          "assists": 7,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 64,
+      "goals": 14,
+      "assists": 7
+    }
+  },
+  {
+    "id": 32,
+    "name": "MARIUS NICULAE",
+    "nationality": "ROMÊNIA",
+    "nationality_code": "ro",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 27,
+            "goals": 14,
+            "assists": 6
+          }
+        ],
+        "totals": {
+          "appearances": 27,
+          "goals": 14,
+          "assists": 6,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 27,
+      "goals": 14,
+      "assists": 6
+    }
+  },
+  {
+    "id": 33,
+    "name": "MAGNÚS JÓNSSON",
+    "nationality": "ISLÂNDIA",
+    "nationality_code": "is",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 33,
+            "goals": 14,
+            "assists": 2
+          }
+        ],
+        "totals": {
+          "appearances": 33,
+          "goals": 14,
+          "assists": 2,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 33,
+      "goals": 14,
+      "assists": 2
+    }
+  },
+  {
+    "id": 34,
+    "name": "DAVID GASCÓN",
+    "nationality": "ESPANHA",
+    "nationality_code": "es",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "MC",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 222,
+            "goals": 13,
+            "assists": 57
+          }
+        ],
+        "totals": {
+          "appearances": 222,
+          "goals": 13,
+          "assists": 57,
+          "seasons_count": 6
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 222,
+      "goals": 13,
+      "assists": 57
+    }
+  },
+  {
+    "id": 35,
+    "name": "SÍLVIO LUÍS",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 35,
+            "goals": 13,
+            "assists": 9
+          }
+        ],
+        "totals": {
+          "appearances": 35,
+          "goals": 13,
+          "assists": 9,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 35,
+      "goals": 13,
+      "assists": 9
+    }
+  },
+  {
+    "id": 36,
+    "name": "EDINSON CAVANI",
+    "nationality": "URUGUAI",
+    "nationality_code": "uy",
+    "nationality2": "ITÁLIA",
+    "nationality2_code": "it",
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 27,
+            "goals": 13,
+            "assists": 5
+          }
+        ],
+        "totals": {
+          "appearances": 27,
+          "goals": 13,
+          "assists": 5,
+          "seasons_count": 1
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 27,
+      "goals": 13,
+      "assists": 5
+    }
+  },
+  {
+    "id": 37,
+    "name": "DANIEL ALVES",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": "ESPANHA",
+    "nationality2_code": "es",
+    "position": "LD",
+    "position2": null,
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 553,
+            "goals": 12,
+            "assists": 121
+          }
+        ],
+        "totals": {
+          "appearances": 553,
+          "goals": 12,
+          "assists": 121,
+          "seasons_count": 11
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 553,
+      "goals": 12,
+      "assists": 121
+    }
+  },
+  {
+    "id": 38,
+    "name": "DIEGO GODÍN",
+    "nationality": "URUGUAI",
+    "nationality_code": "uy",
+    "nationality2": "ESPANHA",
+    "nationality2_code": "es",
+    "position": "ZG",
+    "position2": null,
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 378,
+            "goals": 12,
+            "assists": 23
+          }
+        ],
+        "totals": {
+          "appearances": 378,
+          "goals": 12,
+          "assists": 23,
+          "seasons_count": 8
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 378,
+      "goals": 12,
+      "assists": 23
+    }
+  },
+  {
+    "id": 39,
+    "name": "CARLOS ALBERTO AMÂNCIO",
+    "nationality": "SÃO TOMÉ E PRINCIPE",
+    "nationality_code": "st",
+    "nationality2": "ESPANHA",
+    "nationality2_code": "es",
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 21,
+            "goals": 11,
+            "assists": 4
+          }
+        ],
+        "totals": {
+          "appearances": 21,
+          "goals": 11,
+          "assists": 4,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 21,
+      "goals": 11,
+      "assists": 4
+    }
+  },
+  {
+    "id": 40,
+    "name": "MÁRIO FERNANDES",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": "ESPANHA",
+    "nationality2_code": "es",
+    "position": "LD",
+    "position2": null,
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 532,
+            "goals": 10,
+            "assists": 132
+          }
+        ],
+        "totals": {
+          "appearances": 532,
+          "goals": 10,
+          "assists": 132,
+          "seasons_count": 12
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 532,
+      "goals": 10,
+      "assists": 132
+    }
+  },
+  {
+    "id": 41,
+    "name": "JULIO ARCA",
+    "nationality": "ARGENTINA",
+    "nationality_code": "ar",
+    "nationality2": "ITÁLIA",
+    "nationality2_code": "it",
+    "position": "LE",
+    "position2": null,
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 189,
+            "goals": 10,
+            "assists": 38
+          }
+        ],
+        "totals": {
+          "appearances": 189,
+          "goals": 10,
+          "assists": 38,
+          "seasons_count": 4
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 189,
+      "goals": 10,
+      "assists": 38
+    }
+  },
+  {
+    "id": 42,
+    "name": "CARLOS BASTIDA",
+    "nationality": "ESPANHA",
+    "nationality_code": "es",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "ZG",
+    "position2": null,
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 388,
+            "goals": 9,
+            "assists": 15
+          }
+        ],
+        "totals": {
+          "appearances": 388,
+          "goals": 9,
+          "assists": 15,
+          "seasons_count": 11
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 388,
+      "goals": 9,
+      "assists": 15
+    }
+  },
+  {
+    "id": 43,
+    "name": "JESÚS NAVAS",
+    "nationality": "ESPANHA",
+    "nationality_code": "es",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "LD",
+    "position2": null,
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 195,
+            "goals": 9,
+            "assists": 46
+          }
+        ],
+        "totals": {
+          "appearances": 195,
+          "goals": 9,
+          "assists": 46,
+          "seasons_count": 7
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 195,
+      "goals": 9,
+      "assists": 46
+    }
+  },
+  {
+    "id": 44,
+    "name": "JAVIER MASCHERANO",
+    "nationality": "ARGENTINA",
+    "nationality_code": "ar",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "VL",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 90,
+            "goals": 9,
+            "assists": 24
+          }
+        ],
+        "totals": {
+          "appearances": 90,
+          "goals": 9,
+          "assists": 24,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 90,
+      "goals": 9,
+      "assists": 24
+    }
+  },
+  {
+    "id": 45,
+    "name": "FERNANDO TORRES",
+    "nationality": "ESPANHA",
+    "nationality_code": "es",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 42,
+            "goals": 9,
+            "assists": 14
+          }
+        ],
+        "totals": {
+          "appearances": 42,
+          "goals": 9,
+          "assists": 14,
+          "seasons_count": 1
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 42,
+      "goals": 9,
+      "assists": 14
+    }
+  },
+  {
+    "id": 46,
+    "name": "PEDRO TORRES",
+    "nationality": "PERU",
+    "nationality_code": "pe",
+    "nationality2": "ESPANHA",
+    "nationality2_code": "es",
+    "position": "VL",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 216,
+            "goals": 8,
+            "assists": 45
+          }
+        ],
+        "totals": {
+          "appearances": 216,
+          "goals": 8,
+          "assists": 45,
+          "seasons_count": 6
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 216,
+      "goals": 8,
+      "assists": 45
+    }
+  },
+  {
+    "id": 47,
+    "name": "MAXIMILIANO CALVO",
+    "nationality": "ARGENTINA",
+    "nationality_code": "ar",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "MA",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 80,
+            "goals": 8,
+            "assists": 22
+          }
+        ],
+        "totals": {
+          "appearances": 80,
+          "goals": 8,
+          "assists": 22,
+          "seasons_count": 3
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 80,
+      "goals": 8,
+      "assists": 22
+    }
+  },
+  {
+    "id": 48,
+    "name": "FRANCISCO JAVIER GÓMEZ",
+    "nationality": "ESPANHA",
+    "nationality_code": "es",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "MA",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 96,
+            "goals": 8,
+            "assists": 18
+          }
+        ],
+        "totals": {
+          "appearances": 96,
+          "goals": 8,
+          "assists": 18,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 96,
+      "goals": 8,
+      "assists": 18
+    }
+  },
+  {
+    "id": 49,
+    "name": "DANTE AIMAR",
+    "nationality": "ARGENTINA",
+    "nationality_code": "ar",
+    "nationality2": "ESPANHA",
+    "nationality2_code": "es",
+    "position": "VL",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 198,
+            "goals": 7,
+            "assists": 34
+          }
+        ],
+        "totals": {
+          "appearances": 198,
+          "goals": 7,
+          "assists": 34,
+          "seasons_count": 5
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 198,
+      "goals": 7,
+      "assists": 34
+    }
+  },
+  {
+    "id": 50,
+    "name": "CRISTIAN SUÁREZ",
+    "nationality": "ARGENTINA",
+    "nationality_code": "ar",
+    "nationality2": "ESPANHA",
+    "nationality2_code": "es",
+    "position": "VL",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 76,
+            "goals": 7,
+            "assists": 9
+          }
+        ],
+        "totals": {
+          "appearances": 76,
+          "goals": 7,
+          "assists": 9,
+          "seasons_count": 3
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 76,
+      "goals": 7,
+      "assists": 9
+    }
+  },
+  {
+    "id": 51,
+    "name": "EVANDRO",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": "ESPANHA",
+    "nationality2_code": "es",
+    "position": "LE",
+    "position2": null,
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 150,
+            "goals": 7,
+            "assists": 22
+          }
+        ],
+        "totals": {
+          "appearances": 150,
+          "goals": 7,
+          "assists": 22,
+          "seasons_count": 4
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 150,
+      "goals": 7,
+      "assists": 22
+    }
+  },
+  {
+    "id": 52,
+    "name": "LUTSENKO",
+    "nationality": "UCRANIA",
+    "nationality_code": "ua",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 53,
+            "goals": 7,
+            "assists": 7
+          }
+        ],
+        "totals": {
+          "appearances": 53,
+          "goals": 7,
+          "assists": 7,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 53,
+      "goals": 7,
+      "assists": 7
+    }
+  },
+  {
+    "id": 53,
+    "name": "MAXI RODRÍGUEZ",
+    "nationality": "ARGENTINA",
+    "nationality_code": "ar",
+    "nationality2": "ESPANHA",
+    "nationality2_code": "es",
+    "position": "MC",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 64,
+            "goals": 6,
+            "assists": 21
+          }
+        ],
+        "totals": {
+          "appearances": 64,
+          "goals": 6,
+          "assists": 21,
+          "seasons_count": 3
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 64,
+      "goals": 6,
+      "assists": 21
+    }
+  },
+  {
+    "id": 54,
+    "name": "LÚCIO ROBERTO PIMENTA",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "LD",
+    "position2": null,
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 165,
+            "goals": 6,
+            "assists": 28
+          }
+        ],
+        "totals": {
+          "appearances": 165,
+          "goals": 6,
+          "assists": 28,
+          "seasons_count": 4
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 165,
+      "goals": 6,
+      "assists": 28
+    }
+  },
+  {
+    "id": 55,
+    "name": "ZÉ ELIAS",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": "ITÁLIA",
+    "nationality2_code": "it",
+    "position": "VL",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 85,
+            "goals": 5,
+            "assists": 23
+          }
+        ],
+        "totals": {
+          "appearances": 85,
+          "goals": 5,
+          "assists": 23,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 85,
+      "goals": 5,
+      "assists": 23
+    }
+  },
+  {
+    "id": 56,
+    "name": "ALBERTO",
+    "nationality": "ESPANHA",
+    "nationality_code": "es",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "MC",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 79,
+            "goals": 5,
+            "assists": 7
+          }
+        ],
+        "totals": {
+          "appearances": 79,
+          "goals": 5,
+          "assists": 7,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 79,
+      "goals": 5,
+      "assists": 7
+    }
+  },
+  {
+    "id": 57,
+    "name": "MARLON",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": "ESPANHA",
+    "nationality2_code": "es",
+    "position": "VL",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 118,
+            "goals": 5,
+            "assists": 14
+          }
+        ],
+        "totals": {
+          "appearances": 118,
+          "goals": 5,
+          "assists": 14,
+          "seasons_count": 3
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 118,
+      "goals": 5,
+      "assists": 14
+    }
+  },
+  {
+    "id": 58,
+    "name": "CESC FÀBREGAS",
+    "nationality": "ESPANHA",
+    "nationality_code": "es",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "MC",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 53,
+            "goals": 4,
+            "assists": 13
+          }
+        ],
+        "totals": {
+          "appearances": 53,
+          "goals": 4,
+          "assists": 13,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 53,
+      "goals": 4,
+      "assists": 13
+    }
+  },
+  {
+    "id": 59,
+    "name": "JIN-SUK WON",
+    "nationality": "CORÉIA DO SUL",
+    "nationality_code": "kr",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "VL",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 29,
+            "goals": 4,
+            "assists": 5
+          }
+        ],
+        "totals": {
+          "appearances": 29,
+          "goals": 4,
+          "assists": 5,
+          "seasons_count": 1
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 29,
+      "goals": 4,
+      "assists": 5
+    }
+  },
+  {
+    "id": 60,
+    "name": "FRANCISCO JAVIER VILLAVERDE",
+    "nationality": "ESPANHA",
+    "nationality_code": "es",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "MC",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 99,
+            "goals": 3,
+            "assists": 31
+          }
+        ],
+        "totals": {
+          "appearances": 99,
+          "goals": 3,
+          "assists": 31,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 99,
+      "goals": 3,
+      "assists": 31
+    }
+  },
+  {
+    "id": 61,
+    "name": "GIANNIS KALOGERAS",
+    "nationality": "GRÉCIA",
+    "nationality_code": "gr",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "LE",
+    "position2": null,
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 257,
+            "goals": 2,
+            "assists": 37
+          }
+        ],
+        "totals": {
+          "appearances": 257,
+          "goals": 2,
+          "assists": 37,
+          "seasons_count": 7
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 257,
+      "goals": 2,
+      "assists": 37
+    }
+  },
+  {
+    "id": 62,
+    "name": "FILIPE LUÍS",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": "ITÁLIA",
+    "nationality2_code": "it",
+    "position": "LE",
+    "position2": null,
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 100,
+            "goals": 2,
+            "assists": 27
+          }
+        ],
+        "totals": {
+          "appearances": 100,
+          "goals": 2,
+          "assists": 27,
+          "seasons_count": 4
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 100,
+      "goals": 2,
+      "assists": 27
+    }
+  },
+  {
+    "id": 63,
+    "name": "HERNANES",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": "ESPANHA",
+    "nationality2_code": "es",
+    "position": "MC",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 94,
+            "goals": 2,
+            "assists": 19
+          }
+        ],
+        "totals": {
+          "appearances": 94,
+          "goals": 2,
+          "assists": 19,
+          "seasons_count": 3
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 94,
+      "goals": 2,
+      "assists": 19
+    }
+  },
+  {
+    "id": 64,
+    "name": "YONG YANG",
+    "nationality": "CHINA",
+    "nationality_code": "cn",
+    "nationality2": "ESPANHA",
+    "nationality2_code": "es",
+    "position": "VL",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 93,
+            "goals": 2,
+            "assists": 24
+          }
+        ],
+        "totals": {
+          "appearances": 93,
+          "goals": 2,
+          "assists": 24,
+          "seasons_count": 3
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 93,
+      "goals": 2,
+      "assists": 24
+    }
+  },
+  {
+    "id": 65,
+    "name": "FREDI",
+    "nationality": "ESPANHA",
+    "nationality_code": "es",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "MA",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 35,
+            "goals": 2,
+            "assists": 8
+          }
+        ],
+        "totals": {
+          "appearances": 35,
+          "goals": 2,
+          "assists": 8,
+          "seasons_count": 1
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 35,
+      "goals": 2,
+      "assists": 8
+    }
+  },
+  {
+    "id": 66,
+    "name": "NÉLSON SOUSA",
+    "nationality": "PORTUGAL",
+    "nationality_code": "pt",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "LD",
+    "position2": null,
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 43,
+            "goals": 1,
+            "assists": 11
+          }
+        ],
+        "totals": {
+          "appearances": 43,
+          "goals": 1,
+          "assists": 11,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 43,
+      "goals": 1,
+      "assists": 11
+    }
+  },
+  {
+    "id": 67,
+    "name": "GIANLUIGI BUFFON",
+    "nationality": "ITÁLIA",
+    "nationality_code": "it",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "GO",
+    "position2": null,
+    "position_group": "GOL",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 873,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "totals": {
+          "appearances": 873,
+          "goals": 0,
+          "assists": 0,
+          "seasons_count": 16
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 873,
+      "goals": 0,
+      "assists": 0
+    }
+  },
+  {
+    "id": 68,
+    "name": "MOTA",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": "PORTUGAL",
+    "nationality2_code": "pt",
+    "position": "VL",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 122,
+            "goals": 0,
+            "assists": 16
+          }
+        ],
+        "totals": {
+          "appearances": 122,
+          "goals": 0,
+          "assists": 16,
+          "seasons_count": 4
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 122,
+      "goals": 0,
+      "assists": 16
+    }
+  },
+  {
+    "id": 69,
+    "name": "TED LAVIE",
+    "nationality": "FRANÇA",
+    "nationality_code": "fr",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "LD",
+    "position2": null,
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 88,
+            "goals": 0,
+            "assists": 15
+          }
+        ],
+        "totals": {
+          "appearances": 88,
+          "goals": 0,
+          "assists": 15,
+          "seasons_count": 3
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 88,
+      "goals": 0,
+      "assists": 15
+    }
+  },
+  {
+    "id": 70,
+    "name": "EDERSON",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": "ITÁLIA",
+    "nationality2_code": "it",
+    "position": "MC",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 77,
+            "goals": 0,
+            "assists": 11
+          }
+        ],
+        "totals": {
+          "appearances": 77,
+          "goals": 0,
+          "assists": 11,
+          "seasons_count": 3
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 77,
+      "goals": 0,
+      "assists": 11
+    }
+  },
+  {
+    "id": 71,
+    "name": "FILIPE LUÍS",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": "PORTUGAL",
+    "nationality2_code": "pt",
+    "position": "LE",
+    "position2": null,
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 43,
+            "goals": 0,
+            "assists": 9
+          }
+        ],
+        "totals": {
+          "appearances": 43,
+          "goals": 0,
+          "assists": 9,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 43,
+      "goals": 0,
+      "assists": 9
+    }
+  },
+  {
+    "id": 72,
+    "name": "MARCOS SENNA",
+    "nationality": "ESPANHA",
+    "nationality_code": "es",
+    "nationality2": "BRASIL",
+    "nationality2_code": "br",
+    "position": "VL",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Sevilla",
+        "club_color": "#d4021d",
+        "seasons": [
+          {
+            "season": "2001/02 — 2026/27 (acumulado)",
+            "note": "total acumulado",
+            "appearances": 38,
+            "goals": 0,
+            "assists": 11
+          }
+        ],
+        "totals": {
+          "appearances": 38,
+          "goals": 0,
+          "assists": 11,
+          "seasons_count": 1
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 38,
+      "goals": 0,
+      "assists": 11
+    }
+  }
+]

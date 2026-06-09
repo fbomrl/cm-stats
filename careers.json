@@ -5,5 +5,12 @@
     "badge": "⚽",
     "color": "#e53935",
     "current_season": "2026/27"
+  },
+  {
+    "id": "sevilla-2001",
+    "name": "Sevilla 2001",
+    "badge": "⚽",
+    "color": "#d4021d",
+    "current_season": "2026/27"
   }
 ]
