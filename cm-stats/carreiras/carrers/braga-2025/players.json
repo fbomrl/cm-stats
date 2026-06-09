@@ -1,0 +1,779 @@
+[
+  {
+    "id": 1,
+    "name": "SERGE DAURA",
+    "nationality": "CAMARÕES",
+    "nationality_code": "cm",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2024-2026 (acumulado)",
+            "note": "total acumulado pendente breakdown",
+            "appearances": 100,
+            "goals": 103,
+            "assists": 12
+          }
+        ],
+        "totals": {
+          "appearances": 100,
+          "goals": 103,
+          "assists": 12,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 100,
+      "goals": 103,
+      "assists": 12
+    }
+  },
+  {
+    "id": 2,
+    "name": "GUSTAVO ZABARELLI",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "AE",
+    "position2": "CA",
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2024-2026 (acumulado)",
+            "note": "total acumulado pendente breakdown",
+            "appearances": 100,
+            "goals": 41,
+            "assists": 24
+          }
+        ],
+        "totals": {
+          "appearances": 100,
+          "goals": 41,
+          "assists": 24,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 100,
+      "goals": 41,
+      "assists": 24
+    }
+  },
+  {
+    "id": 3,
+    "name": "RICARDO HORTA",
+    "nationality": "PORTUGAL",
+    "nationality_code": "pt",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "MA",
+    "position2": "MC",
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2024-2026 (acumulado)",
+            "note": "total acumulado pendente breakdown",
+            "appearances": 104,
+            "goals": 30,
+            "assists": 31
+          }
+        ],
+        "totals": {
+          "appearances": 104,
+          "goals": 30,
+          "assists": 31,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 104,
+      "goals": 30,
+      "assists": 31
+    }
+  },
+  {
+    "id": 4,
+    "name": "FRAN NAVARRO",
+    "nationality": "ESPANHA",
+    "nationality_code": "es",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "AD",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2024-2026 (acumulado)",
+            "note": "total acumulado pendente breakdown",
+            "appearances": 63,
+            "goals": 25,
+            "assists": 8
+          }
+        ],
+        "totals": {
+          "appearances": 63,
+          "goals": 25,
+          "assists": 8,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 63,
+      "goals": 25,
+      "assists": 8
+    }
+  },
+  {
+    "id": 5,
+    "name": "DANIEL SILVA",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "CA",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2024-2026 (acumulado)",
+            "note": "total acumulado pendente breakdown",
+            "appearances": 68,
+            "goals": 21,
+            "assists": 5
+          }
+        ],
+        "totals": {
+          "appearances": 68,
+          "goals": 21,
+          "assists": 5,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 68,
+      "goals": 21,
+      "assists": 5
+    }
+  },
+  {
+    "id": 6,
+    "name": "RODRIGO ZALAZAR",
+    "nationality": "URUGUAI",
+    "nationality_code": "uy",
+    "nationality2": "ESPANHA",
+    "nationality2_code": "es",
+    "position": "MC",
+    "position2": "MA",
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2024-2026 (acumulado)",
+            "note": "total acumulado pendente breakdown",
+            "appearances": 89,
+            "goals": 16,
+            "assists": 22
+          }
+        ],
+        "totals": {
+          "appearances": 89,
+          "goals": 16,
+          "assists": 22,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 89,
+      "goals": 16,
+      "assists": 22
+    }
+  },
+  {
+    "id": 7,
+    "name": "LUCA MEIRELLES",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "AE",
+    "position2": null,
+    "position_group": "ATA",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2024-2026 (acumulado)",
+            "note": "total acumulado pendente breakdown",
+            "appearances": 27,
+            "goals": 11,
+            "assists": 6
+          }
+        ],
+        "totals": {
+          "appearances": 27,
+          "goals": 11,
+          "assists": 6,
+          "seasons_count": 1
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 27,
+      "goals": 11,
+      "assists": 6
+    }
+  },
+  {
+    "id": 8,
+    "name": "PAULO OLIVEIRA",
+    "nationality": "PORTUGAL",
+    "nationality_code": "pt",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "ZG",
+    "position2": null,
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2024-2026 (acumulado)",
+            "note": "total acumulado pendente breakdown",
+            "appearances": 90,
+            "goals": 8,
+            "assists": 2
+          }
+        ],
+        "totals": {
+          "appearances": 90,
+          "goals": 8,
+          "assists": 2,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 90,
+      "goals": 8,
+      "assists": 2
+    }
+  },
+  {
+    "id": 9,
+    "name": "ANGELIÑO",
+    "nationality": "ESPANHA",
+    "nationality_code": "es",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "LE",
+    "position2": null,
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2024-2026 (acumulado)",
+            "note": "total acumulado pendente breakdown",
+            "appearances": 92,
+            "goals": 5,
+            "assists": 49
+          }
+        ],
+        "totals": {
+          "appearances": 92,
+          "goals": 5,
+          "assists": 49,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 92,
+      "goals": 5,
+      "assists": 49
+    }
+  },
+  {
+    "id": 10,
+    "name": "RÚBEN NEVES",
+    "nationality": "PORTUGAL",
+    "nationality_code": "pt",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "VL",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2024-2026 (acumulado)",
+            "note": "total acumulado pendente breakdown",
+            "appearances": 49,
+            "goals": 5,
+            "assists": 15
+          }
+        ],
+        "totals": {
+          "appearances": 49,
+          "goals": 5,
+          "assists": 15,
+          "seasons_count": 1
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 49,
+      "goals": 5,
+      "assists": 15
+    }
+  },
+  {
+    "id": 11,
+    "name": "LUKAS ZUCCARELLO",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": "ITÁLIA",
+    "nationality2_code": "it",
+    "position": "MA",
+    "position2": "MC",
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2024-2026 (acumulado)",
+            "note": "total acumulado pendente breakdown",
+            "appearances": 47,
+            "goals": 4,
+            "assists": 4
+          }
+        ],
+        "totals": {
+          "appearances": 47,
+          "goals": 4,
+          "assists": 4,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 47,
+      "goals": 4,
+      "assists": 4
+    }
+  },
+  {
+    "id": 12,
+    "name": "GABRIEL MOSCARDO",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "VL",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2024-2026 (acumulado)",
+            "note": "total acumulado pendente breakdown",
+            "appearances": 48,
+            "goals": 3,
+            "assists": 7
+          }
+        ],
+        "totals": {
+          "appearances": 48,
+          "goals": 3,
+          "assists": 7,
+          "seasons_count": 1
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 48,
+      "goals": 3,
+      "assists": 7
+    }
+  },
+  {
+    "id": 13,
+    "name": "VÍCTOR GÓMEZ",
+    "nationality": "ESPANHA",
+    "nationality_code": "es",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "LD",
+    "position2": null,
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2024-2026 (acumulado)",
+            "note": "total acumulado pendente breakdown",
+            "appearances": 83,
+            "goals": 3,
+            "assists": 10
+          }
+        ],
+        "totals": {
+          "appearances": 83,
+          "goals": 3,
+          "assists": 10,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 83,
+      "goals": 3,
+      "assists": 10
+    }
+  },
+  {
+    "id": 14,
+    "name": "MALANG SARR",
+    "nationality": "FRANÇA",
+    "nationality_code": "fr",
+    "nationality2": "SENEGAL",
+    "nationality2_code": "sn",
+    "position": "ZG",
+    "position2": null,
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2024-2026 (acumulado)",
+            "note": "total acumulado pendente breakdown",
+            "appearances": 101,
+            "goals": 3,
+            "assists": 3
+          }
+        ],
+        "totals": {
+          "appearances": 101,
+          "goals": 3,
+          "assists": 3,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 101,
+      "goals": 3,
+      "assists": 3
+    }
+  },
+  {
+    "id": 15,
+    "name": "DANILO",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "VL",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2024-2026 (acumulado)",
+            "note": "total acumulado pendente breakdown",
+            "appearances": 42,
+            "goals": 2,
+            "assists": 8
+          }
+        ],
+        "totals": {
+          "appearances": 42,
+          "goals": 2,
+          "assists": 8,
+          "seasons_count": 1
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 42,
+      "goals": 2,
+      "assists": 8
+    }
+  },
+  {
+    "id": 16,
+    "name": "IGOR GOMES",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "MC",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2024-2026 (acumulado)",
+            "note": "total acumulado pendente breakdown",
+            "appearances": 25,
+            "goals": 2,
+            "assists": 16
+          }
+        ],
+        "totals": {
+          "appearances": 25,
+          "goals": 2,
+          "assists": 16,
+          "seasons_count": 1
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 25,
+      "goals": 2,
+      "assists": 16
+    }
+  },
+  {
+    "id": 17,
+    "name": "JOÃO MOUTINHO",
+    "nationality": "PORTUGAL",
+    "nationality_code": "pt",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "MC",
+    "position2": null,
+    "position_group": "MEI",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2024-2026 (acumulado)",
+            "note": "total acumulado pendente breakdown",
+            "appearances": 27,
+            "goals": 1,
+            "assists": 5
+          }
+        ],
+        "totals": {
+          "appearances": 27,
+          "goals": 1,
+          "assists": 5,
+          "seasons_count": 1
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 27,
+      "goals": 1,
+      "assists": 5
+    }
+  },
+  {
+    "id": 18,
+    "name": "GABRIEL GORGULHO",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "ZG",
+    "position2": "VL",
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2024-2026 (acumulado)",
+            "note": "total acumulado pendente breakdown",
+            "appearances": 59,
+            "goals": 1,
+            "assists": 3
+          }
+        ],
+        "totals": {
+          "appearances": 59,
+          "goals": 1,
+          "assists": 3,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 59,
+      "goals": 1,
+      "assists": 3
+    }
+  },
+  {
+    "id": 19,
+    "name": "LUKAS HORNICEK",
+    "nationality": "REP TCHECA",
+    "nationality_code": "cz",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "GO",
+    "position2": null,
+    "position_group": "GOL",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2024-2026 (acumulado)",
+            "note": "total acumulado pendente breakdown",
+            "appearances": 55,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "totals": {
+          "appearances": 55,
+          "goals": 0,
+          "assists": 0,
+          "seasons_count": 2
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 55,
+      "goals": 0,
+      "assists": 0
+    }
+  },
+  {
+    "id": 20,
+    "name": "BRENO VEREZA",
+    "nationality": "BRASIL",
+    "nationality_code": "br",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "LD",
+    "position2": null,
+    "position_group": "DEF",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2024-2026 (acumulado)",
+            "note": "total acumulado pendente breakdown",
+            "appearances": 44,
+            "goals": 0,
+            "assists": 10
+          }
+        ],
+        "totals": {
+          "appearances": 44,
+          "goals": 0,
+          "assists": 10,
+          "seasons_count": 1
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 44,
+      "goals": 0,
+      "assists": 10
+    }
+  },
+  {
+    "id": 21,
+    "name": "ALESSANDRO NUNZIANTE",
+    "nationality": "ITÁLIA",
+    "nationality_code": "it",
+    "nationality2": null,
+    "nationality2_code": null,
+    "position": "GO",
+    "position2": null,
+    "position_group": "GOL",
+    "clubs": [
+      {
+        "club": "Braga",
+        "club_color": "#e53935",
+        "seasons": [
+          {
+            "season": "2024-2026 (acumulado)",
+            "note": "total acumulado pendente breakdown",
+            "appearances": 35,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "totals": {
+          "appearances": 35,
+          "goals": 0,
+          "assists": 0,
+          "seasons_count": 1
+        }
+      }
+    ],
+    "career_totals": {
+      "appearances": 35,
+      "goals": 0,
+      "assists": 0
+    }
+  }
+]

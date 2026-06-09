@@ -1,0 +1,78 @@
+[
+  {
+    "season": "2025",
+    "club": "Braga",
+    "competitions": {
+      "portugal": [
+        {
+          "name": "Primeira Liga",
+          "result": "CAMPEÃO"
+        },
+        {
+          "name": "Taça de Portugal",
+          "result": "CAMPEÃO"
+        },
+        {
+          "name": "Supertaça",
+          "result": "-"
+        }
+      ],
+      "mundial": [
+        {
+          "name": "Champions League",
+          "result": "-"
+        },
+        {
+          "name": "Europa League",
+          "result": "VICE-CAMPEÃO"
+        },
+        {
+          "name": "Recopa Europeia",
+          "result": "-"
+        },
+        {
+          "name": "Mundial de Clubes",
+          "result": "-"
+        }
+      ]
+    }
+  },
+  {
+    "season": "2026",
+    "club": "Braga",
+    "competitions": {
+      "portugal": [
+        {
+          "name": "Primeira Liga",
+          "result": "-"
+        },
+        {
+          "name": "Taça de Portugal",
+          "result": "-"
+        },
+        {
+          "name": "Supertaça",
+          "result": "-"
+        }
+      ],
+      "mundial": [
+        {
+          "name": "Champions League",
+          "result": "-"
+        },
+        {
+          "name": "Europa League",
+          "result": "-"
+        },
+        {
+          "name": "Recopa Europeia",
+          "result": "-"
+        },
+        {
+          "name": "Mundial de Clubes",
+          "result": "-"
+        }
+      ]
+    }
+  }
+]
