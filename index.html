@@ -334,12 +334,48 @@ function effPos(p) {
   return {pos1: ov||p.position, pos2: ov?null:p.position2, overridden: !!ov};
 }
 function shortName(name) {
+  // Used only in pitch SVG slots: just last name
   const parts = name.split(' ');
   return parts.length > 1 ? parts[parts.length-1] : name;
+}
+function abbrevName(name) {
+  // Used in squad panel and elsewhere: "B. Guimarães"
+  const parts = name.trim().split(' ');
+  if (parts.length === 1) return name;
+  return parts[0][0].toUpperCase() + '. ' + parts.slice(1).join(' ');
 }
 function playerMatchesSlot(p, req) {
   const ep = effPos(p);
   return ep.pos1===req || ep.pos2===req;
+}
+
+// Fallback chain: se não há jogador para req, tenta as posições alternativas em ordem
+const SLOT_FALLBACKS = {
+  // 4-4-2: slot AC → tenta CA
+  '4-4-2:ac':  ['AC', 'CA'],
+  // 4-3-3: slot AE → tenta AC, depois CA; slot AD → tenta AC, depois CA
+  '4-3-3:ae':  ['AE', 'AC', 'CA'],
+  '4-3-3:ad':  ['AD', 'AC', 'CA'],
+  // 3-5-2: slot AC → tenta CA; slot ME → tenta MC, depois LE; slot MD → tenta MC, depois LD; slot MA → tenta MC
+  '3-5-2:ac':  ['AC', 'CA'],
+  '3-5-2:me':  ['ME', 'MC', 'LE'],
+  '3-5-2:md':  ['MD', 'MC', 'LD'],
+};
+
+function getSlotReqChain(formation, slotId, defaultReq) {
+  const key = formation + ':' + slotId;
+  return SLOT_FALLBACKS[key] || [defaultReq];
+}
+
+function findBestForSlot(formation, slot, used) {
+  const chain = getSlotReqChain(formation, slot.id, slot.req);
+  for (const req of chain) {
+    const eligible = PLAYERS
+      .filter(p => !used.has(p.name) && playerMatchesSlot(p, req))
+      .sort((a,b) => sortVal(b)-sortVal(a));
+    if (eligible.length) return {player: eligible[0], resolvedReq: req};
+  }
+  return null;
 }
 
 // ── DATA LOADING ───────────────────────────────────────────
@@ -692,10 +728,8 @@ function assignSlots(formation) {
     });
   } else {
     formation.slots.forEach(slot => {
-      const eligible = PLAYERS
-        .filter(p => !used.has(p.name) && playerMatchesSlot(p, slot.req))
-        .sort((a,b) => sortVal(b)-sortVal(a));
-      if (eligible.length) { assigned[slot.id] = eligible[0]; used.add(eligible[0].name); }
+      const result = findBestForSlot(currentFormation, slot, used);
+      if (result) { assigned[slot.id] = result.player; used.add(result.player.name); }
     });
   }
   return assigned;
@@ -734,7 +768,7 @@ function renderPitch() {
       g.appendChild(rect);
       if (p) {
         const s = getStats(p, 'all');
-        g.appendChild(svgText(x, y-7, shortName(p.name), '9', '#fff', '700'));
+        g.appendChild(svgText(x, y-7, abbrevName(p.name), '9', '#fff', '700'));
         g.appendChild(svgText(x, y+6, `${slot.req} · ${s.g}G ${s.a}A`, '8', 'rgba(255,255,255,.75)', '500'));
       } else {
         const txt = pitchMode==='manual' ? `${slot.req} +` : slot.req;
@@ -758,7 +792,7 @@ function renderSquadPanel(formation, assigned) {
     const gk = grp(ep.pos1);
     const s = getStats(p, 'all');
     return `<tr>
-      <td><div class="flags" style="display:inline-flex">${flag(p.nationality_code,15)}${p.nationality2_code?flag(p.nationality2_code,15):''}</div>&nbsp;<span style="font-size:12px;font-weight:700">${shortName(p.name)}</span></td>
+      <td><div class="flags" style="display:inline-flex">${flag(p.nationality_code,15)}${p.nationality2_code?flag(p.nationality2_code,15):''}</div>&nbsp;<span style="font-size:12px;font-weight:700">${p.name}</span></td>
       <td><span class="badge ${gk}" style="font-size:9px">${slot.req}</span></td>
       <td class="r" style="font-size:12px;color:#60a5fa">${s.j}</td>
       <td class="r" style="font-size:12px;color:#f87171;font-weight:700">${s.g}</td>
@@ -816,7 +850,10 @@ function openSlotDropdown(event, slot) {
   const currentSlots = manualData[currentFormation]||{};
   const assigned = new Set(Object.values(currentSlots));
   const currentPlayer = currentSlots[slot.id]||null;
-  const eligible = PLAYERS.filter(p => playerMatchesSlot(p, slot.req) && (!assigned.has(p.name)||p.name===currentPlayer));
+  const chain = getSlotReqChain(currentFormation, slot.id, slot.req);
+  const eligibleSet = new Set();
+  chain.forEach(req => PLAYERS.forEach(p => { if(playerMatchesSlot(p, req)) eligibleSet.add(p.name); }));
+  const eligible = PLAYERS.filter(p => eligibleSet.has(p.name) && (!assigned.has(p.name)||p.name===currentPlayer));
   const dd = document.createElement('div'); dd.className='slot-dropdown';
   if (eligible.length === 0) {
     dd.innerHTML = `<div class="slot-empty-msg">Nenhum jogador com posição ${slot.req}</div>`;
